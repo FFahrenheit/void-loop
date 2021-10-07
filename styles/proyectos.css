@@ -1,0 +1,59 @@
+.list{
+    padding: 2% 2%; 
+    overflow: hidden;
+}
+
+.list iframe{
+    float: left; 
+    width: 30%;
+    margin: 15px 15px;
+    position: auto;
+    display: block;
+}
+
+.list h2{
+    text-align: center;
+    color: white;
+    font-size: 28px;
+}
+
+.list p{
+    padding: 15px 15px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+
+.list a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.list a:hover{
+    color:whitesmoke;
+}
+
+.list button{
+    width: 200px;
+    font-size: 20px;
+    padding: 12px 12px;
+    text-align: center;
+    align-content: center;
+    border-radius: 20px;
+    background-color: rgb(26, 139, 145);
+    color: white;
+}
+
+.list button:hover{
+    background-color: rgb(19, 108, 112);
+}
+
+.list-buy img{
+    float: right;
+    width: 80px;
+}
+
+.list-buy img:hover{
+    opacity: 0.8;
+}
